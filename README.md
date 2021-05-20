@@ -1,4 +1,4 @@
-# Data_Structure
+# Basic_Data_Structure
 
 ### LINKED LIST
 - SINGLE LINKED LIST
